@@ -7273,7 +7273,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 300;
-  color: gray; }
+  color: green; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -7745,7 +7745,7 @@ h1, h2, h3, h4, h5,
     color: #f86f2d; }
 
 .services h3 {
-  font-size: 20px;
+  font-size: 40px;
   margin-bottom: 20px; }
 
 .carousel-cause.owl-carousel .owl-stage-outer {
@@ -8590,7 +8590,7 @@ textarea.form-control {
 .block-6 {
   margin-bottom: 40px; }
   .block-6 .media-body p {
-    font-size: 16px; }
+    font-size: 20px; }
 
 .block-10 .chef-img {
   height: 400px; }
